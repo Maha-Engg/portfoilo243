@@ -1,0 +1,79 @@
+@media (min-width: 600px) and (max-width: 1100px) {
+
+    .text-container{
+        color:white;
+        position: absolute;
+        margin-top: 25%;
+        width: 20%;
+        
+      }
+
+      section{
+        height:68vh;
+       }
+
+      .my-img{
+        height:58vh;
+        width:300px;
+        position: absolute;
+         margin-left: 35%;
+         margin-top: 8%;
+        
+      }
+
+      .about-container{
+  width: 80%;
+  height:100%;
+  
+  display: block;
+  margin: -2% auto 20px auto;
+  position:relative;
+}
+
+.about-container p{
+    display: flex;
+    flex-wrap: wrap;
+   
+    font-size: 25px;
+    align-items: center;
+  
+  }
+  .education{
+    display: block;
+  }
+  .edudiv{
+ margin: 5%;
+  }
+  .project{
+    display: block;
+  }
+  .proj{
+    margin: 2%;
+  }
+  .card{
+    width:100%;
+    height: 100%;
+    margin: 10%;
+  }
+  .image{
+    width: 100%;
+    height: 100%;
+  }
+  .img{
+   
+    width: 100%;
+    height: 100%;
+  }
+
+  .footer{
+    display: block;
+  }
+  .form{
+    margin: 30px;
+    height: 100%;
+    width: 100%;
+  }
+
+
+}
+
