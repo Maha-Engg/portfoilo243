@@ -11,7 +11,7 @@ function Contact() {
    
 <div  className='footer'>
 
-<div className='form' >
+{/* <div className='form' >
     <h1> Contact</h1>
         <h3 > Get in Touch</h3> 
         <div className="row">
@@ -42,7 +42,7 @@ function Contact() {
    </div>
 </div>
 
-    </div>
+    </div> */}
 
 
    <div className='foot'>
