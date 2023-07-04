@@ -7,6 +7,7 @@ import Project from './component/Project'
 import Contact from './component/Contact'
 import './App.css';
 import './App1.css';
+import './App2.css';
 
 function App() {
   return (

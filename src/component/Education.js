@@ -8,7 +8,7 @@ function Education() {
     <div id= 'educat'>
     <div   className='education'>
 
-        <img src={edu} alt='.... ' />
+        <img src={edu} className='eduimg'  alt='.... ' />
 
 
         <div className='edudiv'>
